@@ -23,4 +23,4 @@
 
 مشارکت شما در بهبود این پروژه مورد استقبال قرار می‌گیرد! شما می‌توانید با ارائه گزارش اشکالات یا ارسال درخواست‌های تغییر (Pull Requests)، در توسعه پروژه سهیم باشید.
 
-![Digtal-clock](https://github.com/MMD1426/WaterMeter-Reader/blob/main/Screenshot%202024-08-15%20133256.png)
+![Digtal-clock](https://github.com/MMD1426/Emotion-Detection-CNN/blob/main/Screenshot.png)
