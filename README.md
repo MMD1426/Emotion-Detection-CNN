@@ -18,4 +18,4 @@
 
 مشارکت شما در بهبود این پروژه مورد استقبال قرار می‌گیرد! شما می‌توانید با ارائه گزارش اشکالات یا ارسال درخواست‌های تغییر (Pull Requests)، در توسعه پروژه سهیم باشید.
 
-![Digtal-clock](https://github.com/MMD1426/Emotion-Detection-CNN/blob/main/Screenshot.png)
+![Digtal-clock](https://github.com/MMD1426/Emotion-Detection-CNN/blob/main/Screenshot1.png)
