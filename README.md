@@ -1,21 +1,21 @@
 # Emotion-Detection-CNN
 
-## معرفی
+## Introduction
 
-این پروژه با هدف تشخیص خودکار احساسات انسانی از تصاویر چهره با استفاده از تکنیک‌های یادگیری عمیق طراحی شده است. در این پروژه از یک معماری CNN سفارشی بهره گرفته شده که به‌طور ویژه برای شناسایی احساسات بهینه شده است. هدف اصلی این پروژه، فراهم کردن یک مدل دقیق و کارآمد برای طبقه‌بندی احساسات از روی حالت‌های چهره است.
+This project is designed to automatically detect human emotions from facial images using deep learning techniques. A custom CNN architecture is utilized, specifically optimized for emotion recognition. The main objective of this project is to provide an accurate and efficient model for classifying emotions based on facial expressions.
 
-## ویژگی‌ها
+## Features
 
-- **استفاده از معماری CNN سفارشی**: شبکه عصبی پیچشی (CNN) برای استخراج ویژگی‌ها و طبقه‌بندی احساسات از تصاویر چهره.
-- **پیش‌پردازش تصاویر**: شامل مراحلی برای آماده‌سازی تصاویر مانند تغییر اندازه و افزایش کیفیت تصاویر برای بهبود دقت مدل.
-- **استفاده از مجموعه داده سفارشی**: مدل با استفاده از مجموعه‌ای از تصاویر چهره برچسب‌گذاری شده آموزش دیده است.
+- **Custom CNN Architecture**: A Convolutional Neural Network (CNN) is used for feature extraction and emotion classification from facial images.
+- **Image Preprocessing**: Includes steps to prepare images, such as resizing and enhancing image quality, to improve model accuracy.
+- **Custom Dataset**: The model is trained using a labeled dataset of facial images.
 
-## مدل
+## Model
 
-- در این پروژه از یک معماری CNN سفارشی برای تشخیص احساسات استفاده شده است.
+- A custom CNN architecture is implemented for emotion detection in this project.
 
-## مشارکت
+## Contribution
 
-مشارکت شما در بهبود این پروژه مورد استقبال قرار می‌گیرد! شما می‌توانید با ارائه گزارش اشکالات یا ارسال درخواست‌های تغییر (Pull Requests)، در توسعه پروژه سهیم باشید.
+Your contributions to improve this project are welcome! You can participate by reporting bugs or submitting pull requests.
 
-![Digtal-clock](https://github.com/MMD1426/Emotion-Detection-CNN/blob/main/Screenshot1.png)
+![Digital-clock](https://github.com/MMD1426/Emotion-Detection-CNN/blob/main/Screenshot1.png)
