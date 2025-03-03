@@ -17,5 +17,3 @@ This project is designed to automatically detect human emotions from facial imag
 ## Contribution
 
 Your contributions to improve this project are welcome! You can participate by reporting bugs or submitting pull requests.
-
-![Digital-clock](https://github.com/MMD1426/Emotion-Detection-CNN/blob/main/Screenshot1.png)
